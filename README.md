@@ -11,3 +11,9 @@ _This is a work in progress that aims to identify the absolutely most useful lea
 > A friendly web development tutorial for complete beginners.
 Sections on: Basic Web Pages, Links and Images, CSS, Responsive Design, Semantic HTML, Forms, and Web Typography
 
+## Technical Writing
+[Technical Writing | Google Developers](https://developers.google.com/tech-writing)
+> Every engineer is also a writer. This collection of courses and learning resources aims to improve your technical documentation. Learn how to plan and author technical documents.
+
+## Typography
+[Typography in 10 minutes | Butterick's Practical Typography](https://practicaltypography.com/typography-in-ten-minutes.html)
