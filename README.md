@@ -18,3 +18,6 @@ Sections on: Basic Web Pages, Links and Images, CSS, Responsive Design, Semantic
 ## Typography
 [Typography in 10 minutes | Butterick's Practical Typography](https://practicaltypography.com/typography-in-ten-minutes.html)
 > This is a bold claim, but I stand behind it: if you learn and follow these five typography rules, you will be a better typographer than nearly every writer—and even most graphic designers.
+
+## Emotion and CSS Pragma
+[The Css Prop In Emotion 10](https://www.felixjung.io/posts/the-css-prop-in-emotion-10/)
